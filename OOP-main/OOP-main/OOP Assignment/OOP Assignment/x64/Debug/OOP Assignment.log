@@ -1,0 +1,4 @@
+﻿  OOP Assignment.cpp
+C:\Users\jjfma\Downloads\OOPFINAL-main (1)\OOPFINAL-main\OOP-main\OOP-main\OOP-main\OOP Assignment\OOP Assignment\OOP Assignment.cpp(98,17): warning C4930: 'std::string selectholiday(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\jjfma\Downloads\OOPFINAL-main (1)\OOPFINAL-main\OOP-main\OOP-main\OOP-main\OOP Assignment\OOP Assignment\OOP Assignment.cpp(225): error C4700: uninitialized local variable 'HolidayPrice' used
+C:\Users\jjfma\Downloads\OOPFINAL-main (1)\OOPFINAL-main\OOP-main\OOP-main\OOP-main\OOP Assignment\OOP Assignment\OOP Assignment.cpp(226): error C4700: uninitialized local variable 'ActivityPrice' used
